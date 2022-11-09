@@ -74,12 +74,12 @@
 		</tr>
 		<tr>
 			<td>
-				<div style="text-align: center;">
+				<div class="center">
 					<input type="submit" name="submit" class="btn btn-light">
 				</div>
 			</td>
 			<td>
-				<div style="text-align:center;">
+				<div class="center">
 					<a class="btn btn-danger" href="list.php">See Student List</a>
 				</div>
 			</td>
