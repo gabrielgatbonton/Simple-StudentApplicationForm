@@ -10,7 +10,6 @@
         table{
             margin-left: auto;
             margin-right: auto;
-            
         }
         h1{
             text-align: center;
